@@ -5,4 +5,4 @@ Building this project from JavascriptMastery
 https://youtu.be/lie0cr3wESQ?feature=shared
 
 Current Timestamp:
-51:03 (Setup Appwrite & Create Account)
+1:41:35 ( Layout, Nav, Sidebar)
